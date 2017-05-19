@@ -1,5 +1,5 @@
-# OLED_0_9inch
-Sample code for connecting 0.9" OLED display to Arduino Pro 3.3V/8MHz using SPI interface
+# Monochrome 0.96" 128x64 OLED Graphic Display - SPI Interface
+Sample code for connecting 0.96" Monochrome OLED display to Arduino Pro 3.3V/8MHz using SPI interface
 
 Wiring:</br>
 Ardino Pro 3.3V/8MHz ------- OLED Display (SPI)</br>
